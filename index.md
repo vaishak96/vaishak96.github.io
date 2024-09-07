@@ -34,20 +34,17 @@ Explore more in the full article!
 
 
 ---
-#### [Education Project](https://medium.com/@vaishakda9000/analysing-massachusetts-education-data-to-drive-future-improvements-229252d83a4b)
-[<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*2ptnC5iayIi_Ggu6"/>](https://medium.com/@vaishakda9000/analysing-massachusetts-education-data-to-drive-future-improvements-229252d83a4b)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [Healthcare Data Analytics Project](https://medium.com/@vaishakda9000/transforming-healthcare-leveraging-data-analytics-to-optimize-hospital-operations-and-improve-1e614c9d5915)
+[<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*QEmGUAY7LcMg3jp5"/>](https://medium.com/@vaishakda9000/transforming-healthcare-leveraging-data-analytics-to-optimize-hospital-operations-and-improve-1e614c9d5915)
+
+As hospitals grapple with skyrocketing costs and resource shortages, a game-changing solution is emerging: data analytics. But what surprising insights are hidden in the patterns of patient care and hospital operations? How are hospitals using these findings to save costs and transform patient outcomes? This deep dive reveals how data is reshaping the healthcare landscape, uncovering key strategies that could redefine how we experience medical care. Will data be the key to the future of healthcare? Find out in the full article!!
+
 
 ---
-#### [Education Project](https://medium.com/@vaishakda9000/analysing-massachusetts-education-data-to-drive-future-improvements-229252d83a4b)
-[<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*2ptnC5iayIi_Ggu6"/>](https://medium.com/@vaishakda9000/analysing-massachusetts-education-data-to-drive-future-improvements-229252d83a4b)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [Iron Ore Extraction Data Project](https://medium.com/@vaishakda9000/analysing-the-flotation-process-for-iron-ore-extraction-insights-and-challenges-1b02b12298c9)
+[<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*aisOdy6lATUPec5t"/>](https://medium.com/@vaishakda9000/analysing-the-flotation-process-for-iron-ore-extraction-insights-and-challenges-1b02b12298c9)
+
+A seemingly routine day in the iron ore flotation process revealed unexpected anomalies, sending engineers into a data-driven investigation. Could subtle fluctuations in pH levels and silica concentration hint at the root cause of this mysterious event? Or is there a deeper, hidden issue in the process? Discover how Python analysis and meticulous data exploration attempt to unravel the strange occurrences on June 1, 2017. What will the investigation uncover, and will it prevent future disruptions? Read the full article to find out!!
 
 ---
 
